@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:title="@string/title_limit_of_report"
+        android:key="@string/key_of_limit_of_report"
+        android:inputType="numberDecimal"
+        android:selectAllOnFocus="true"
+        android:defaultValue="@string/default_number_of_report"/>
+    <ListPreference
+        android:title="@string/title_section_of_report"
+        android:key="@string/key_of_list_section_of_report"
+        android:defaultValue="@string/default_section_selected"
+        android:entryValues="@array/list_section_of_report"
+        android:entries="@array/list_section_of_report"
+        />
+    <EditTextPreference
+        android:title="@string/title_word_search_in_report"
+        android:key="@string/key_of_word_search_of_report"
+        android:inputType="text"
+        android:selectAllOnFocus="true"
+        />
+</PreferenceScreen>

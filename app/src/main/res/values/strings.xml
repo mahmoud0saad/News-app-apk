@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="empty_reports_text">No news found at the moment, Try again later.\nError happened! Please try again later. </string>
+    <string name="connection_network_text">No network connect </string>
+    <string name="settings_item_menu">settings</string>
+
+    <string name="title_limit_of_report">Max number of report show</string>
+    <string name="key_of_limit_of_report">number_of_report</string>
+    <string name="default_number_of_report">10</string>
+
+    <string name="title_section_of_report">Section</string>
+    <string name="key_of_list_section_of_report">id_list_section</string>
+    <string name="default_section_selected">sport</string>
+
+    <string name="title_word_search_in_report">search by word </string>
+    <string name="key_of_word_search_of_report">word_query_in_report</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="list_section_of_report">
+    <item>random</item>
+    <item>sport</item>
+    <item>community</item>
+    <item>books</item>
+    <item>world</item>
+    <item>money</item>
+    <item>games</item>
+    <item>stage</item>
+    <item>film</item>
+</string-array>
+</resources>
